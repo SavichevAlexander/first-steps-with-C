@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\GB. C#\\GB. C#.csproj",
-      "projectName": "GB. C#",
-      "projectPath": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\GB. C#\\GB. C#.csproj",
+      "projectUniqueName": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\FinalTask\\FinalTask.csproj",
+      "projectName": "FinalTask",
+      "projectPath": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\FinalTask\\FinalTask.csproj",
       "packagesPath": "C:\\Users\\miani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\GB. C#\\obj\\",
+      "outputPath": "C:\\Users\\miani\\OneDrive\\Desktop\\Work with VSC\\GB. Education\\FinalTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miani\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
